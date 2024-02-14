@@ -16,10 +16,8 @@ Open the project you want to connect to GitHub or create a new one.
 If your project is not already a Git repository, you can initialize one. Open the terminal in Visual Studio Code (Ctrl+ backtick) and run the following commands: `git init`
   5. **Stage and Commit Changes:**
 Make changes to your code, and use the following commands to stage and commit your changes:
-```
-git add .
-git commit -m "your commit message here"
-```
+`git add .`
+`git commit -m "your commit message here"`
   6. Create a GitHub Repository:
 Go to the GitHub website and create a new repository. Follow the instructions on GitHub to create a new repository.
   7. Link Visual Studio Code to GitHub:
