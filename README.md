@@ -1,4 +1,8 @@
-# Part 1: Directions on using Visual Studio Code
+# Part 1: Directions on using Visual Studio Code, Git, and GitHub
+- Install git at: https://git-scm.com/downloads
+
+- 
+
 
 
 # Part 2: Glossary for GitHub
