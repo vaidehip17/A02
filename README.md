@@ -10,9 +10,12 @@
   A commit, or "revision", is an individual change to a file (or set of files). When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep a record of the specific changes committed along with who made them and when. Commits usually contain a commit message which is a brief description of what changes were made.
 - **Fetch:**
   When you use `git fetch`, you're adding changes from the remote repository to your local working branch without committing them. Fetching allows you to review changes before committing them to your local branch. 
-- **GIT:**
+- **Git:**
+  Git is an open-source program for tracking changes in text files. It was written by the author of the Linux operating system and is the core technology that GitHub, the social and user interface, is built on top of.
 - **GitHub:**
+  GitHub provides a service to an entire organization and uses its own identity when performing its function. They can be installed directly on organizations and user accounts and granted access to specific repositories. They come with granular permissions and built-in webhooks.
 - **Merge:**
+  
 - **Merge Conflict:**
 - **Push:**
 - **Pull:**
